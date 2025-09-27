@@ -1,4 +1,0 @@
-web: gunicorn blog.wsgi
-web: gunicorn codestar.wsgi --log-file -
-web: gunicorn codestar.wsgi
-web: gunicorn codestar_blog.wsgi
